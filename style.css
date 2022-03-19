@@ -1,0 +1,55 @@
+.skip {
+  color: orangered;
+}
+.section1 {
+  display: flex;
+}
+.first {
+  width: 50%;
+}
+.second {
+  width: 50%;
+}
+.second img {
+  width: 250px;
+}
+
+.an {
+  color: azure;
+  background-image: linear-gradient(orangered, tomato);
+  text-decoration-line: none;
+  border-radius: 5px;
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+.section2 {
+  background-color: rgb(247, 152, 181);
+}
+.section2 img {
+  width: 200px;
+  padding: 20px;
+}
+.flex {
+  display: flex;
+  margin: 20px;
+}
+.rec {
+  text-align: center;
+  padding: 20px;
+}
+.recipe {
+  box-sizing: 2px;
+  box-shadow: 1px 2px black;
+  padding: 20px;
+  border-radius: 20px;
+}
+.recipe img {
+  width: 200px;
+  padding-right: 10px;
+}
+.fot {
+  padding-top: 50px;
+  text-align: center;
+  background-color: gray;
+}
